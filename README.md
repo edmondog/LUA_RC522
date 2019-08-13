@@ -10,5 +10,4 @@ https://github.com/ljos/MFRC522             -> Arduino
 
 To be used with MFRC522 RFID reader and s50 tag (but can work with other tags) with the NodeMCU devkit V1
 
-
-  
+Modified timer call to fit new libraries. Added pinout to connect to NodeMCU AMICA  
